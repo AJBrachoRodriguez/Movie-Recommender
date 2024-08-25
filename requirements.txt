@@ -1,1 +1,5 @@
 fastapi
+pandas
+scikit-learn
+numpy
+matplotlib
