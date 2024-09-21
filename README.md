@@ -35,14 +35,13 @@ Remember that this command must be used with the folder with the file **app.py**
 
 + .../popular_movies
 
-
 ### **Contributions**  ✍️
 
 I would like to you to encourage to contribute in any form to the project through this public repository. 
 
 ### **Credits**  🎈
 
-I would like to thank all the members of my team. Besides, I want to thank the support given by the team of Datapath. 
+I would like to thank all the members of my team: Victor, Elvis Donayre, Zerberus, Santiago, Krimpatul, Rafael, Joseph.
 
 ### **Licence**  👮
 
